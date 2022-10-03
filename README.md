@@ -14,7 +14,7 @@ Busco o meu espaço no mercado e estou aberto a novas experiências focando o me
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiscarlosf&repo=luiscarlosf.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiscarlosf&repo=luiscarlosf.github.io)](https://github.com/Luiscarlosf/luiscarlosf.github.io)
 
 ## Contatos
 
