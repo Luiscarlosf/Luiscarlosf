@@ -14,8 +14,6 @@ Busco o meu espaço no mercado e estou aberto a novas experiências focando o me
 
 ## Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luiscarlosf&repo=luiscarlosf.github.io)](https://github.com/Luiscarlosf/luiscarlosf.github.io)
-
 ## Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/luis-carlos-ferreira-neto/)
